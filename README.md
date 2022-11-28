@@ -27,6 +27,7 @@ class About extends Me {
 
 <br />
 
+#### ✨ &nbsp;&nbsp;About me
 
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Application programming interfaces (APIs)
@@ -39,10 +40,10 @@ class About extends Me {
 #### 🧡 &nbsp;&nbsp;My passions
 
 * Data & Science 
-* Travel & Nature ([Instagram](https://www.instagram.com/nachocochero/), [Youtube](https://www.youtube.com/channel/UCnN5UeGq6_VnliI_GfnZtAQ))
+* Travel & Nature ([Instagram](https://www.instagram.com/nachocochero/))
 * Brewer
 * Climbing & Outdoor activities
-* Photo and video editing
+* Photo and video editing ([Youtube](https://www.youtube.com/channel/UCnN5UeGq6_VnliI_GfnZtAQ))
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
