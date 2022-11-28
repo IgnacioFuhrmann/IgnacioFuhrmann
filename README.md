@@ -38,11 +38,11 @@ class About extends Me {
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Technology and Data
-* Science 
-* Travel & Nature ([instagram](https://www.instagram.com/nachocochero/), [youtube](https://www.youtube.com/channel/UCnN5UeGq6_VnliI_GfnZtAQ))
+* Data & Science 
+* Travel & Nature ([Instagram](https://www.instagram.com/nachocochero/), [Youtube](https://www.youtube.com/channel/UCnN5UeGq6_VnliI_GfnZtAQ))
 * Brewer
 * Climbing & Outdoor activities
+* Photo and video editing
 
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
