@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-fuhrmann/">
-    <img width="1000" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.jpg" alt="logo" />
+    <img width="800" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.jpg" alt="logo" />
   </a>
 </p>
 
