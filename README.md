@@ -10,6 +10,27 @@
 
 **IgnacioFuhrmann/IgnacioFuhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+```dart
+// tools_I_use organized
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { R", "Python" },
+    "DataTools" : { "SQL", "Tableu", "Excel", "Stata },
+    "Editors" : { "Vscode" },
+    "Platforms" : { "Windows", "MacOS" },
+    "OtherTools" : { "Google Analytics", "Google/Facebook Ads", "Photoshop", "PremierPro", "Lightroom" }
+  };
+}
+```
+
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
