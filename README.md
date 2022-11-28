@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-fuhrmann/">
-    <img width="800" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.jpg" alt="logo" />
+    <img width="1000" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.jpg" alt="logo" />
   </a>
 </p>
 
 
-<!--
+
 **IgnacioFuhrmann/IgnacioFuhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
