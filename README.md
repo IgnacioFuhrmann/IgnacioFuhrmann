@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Ignacio Fuhrmann
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-fuhrmann/">
+    < src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/DJI_0089%20(2).JPG" alt="logo" />
+  </a>
+</p>
+
 
 <!--
 **IgnacioFuhrmann/IgnacioFuhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
