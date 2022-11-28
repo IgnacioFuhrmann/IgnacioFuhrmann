@@ -20,7 +20,7 @@ class About extends Me {
     "DataTools" : { "SQL", "Tableu", "Excel", "Stata" },
     "Editors" : { "Vscode" },
     "Platforms" : { "Windows", "MacOS" },
-    "OtherTools" : { "Google Analytics", "Google&Facebook Ads", "Adobe" }
+    "OtherTools" : { "Google Analytics", "Google_Facebook Ads", "Adobe" }
   };
 }
 ```
