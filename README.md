@@ -41,4 +41,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;Check out my **[Portfolio]**
+
+
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and Data
+* Science 
+* Travel & Nature ([instagram](https://www.instagram.com/nachocochero/), [youtube](https://www.youtube.com/channel/UCnN5UeGq6_VnliI_GfnZtAQ))
+* Brewer
+* Climbing & Outdoor activities
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[Portfolio]: https://ignaciofuhrmann.github.io/PortfolioWeb.github.io/
+[linkedin]: https://www.linkedin.com/in/ignacio-fuhrmann/
 
