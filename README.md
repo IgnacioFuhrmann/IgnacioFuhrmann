@@ -8,7 +8,7 @@
 <br />
 
 
-Im a data analyst with 2 years experience in marketing who likes to work with R, Tableu, SQL, Excel, Python among others.
+Data Analyst with 2 years experience in marketing who likes to work with R, Tableu, SQL, Excel, Python among others.
 
 <br />
 
