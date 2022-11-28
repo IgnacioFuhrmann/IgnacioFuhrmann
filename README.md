@@ -24,7 +24,7 @@ class About extends Me {
 }
 ```
 
-
+<br />
 
 Here are some ideas to get you started:
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :office: &nbsp;Check out my **[Portfolio]**
 
+<br />
 
 #### 🧡 &nbsp;&nbsp;My passions
 
