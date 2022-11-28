@@ -26,24 +26,13 @@ class About extends Me {
 
 
 
-
-
-
-
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🔭 I’m currently working on my portfolio projects
+- 🌱 I’m currently learning Application programming interfaces (APIs)
+- 👯 I’m looking to collaborate in any interesting data analytic project.
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :office: &nbsp;Check out my **[Portfolio]**
-
 
 
 #### 🧡 &nbsp;&nbsp;My passions
