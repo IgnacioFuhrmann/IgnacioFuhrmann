@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-fuhrmann/">
-    <img width="1000" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.jpg" alt="logo" />
+    <img width="1000" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.v2.jpg" alt="logo" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { R", "Python" },
-    "DataTools" : { "SQL", "Tableu", "Excel", "Stata },
+    "DataTools" : { "SQL", "Tableu", "Excel", "Stata" },
     "Editors" : { "Vscode" },
     "Platforms" : { "Windows", "MacOS" },
     "OtherTools" : { "Google Analytics", "Google/Facebook Ads", "Photoshop", "PremierPro", "Lightroom" }
