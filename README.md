@@ -5,11 +5,12 @@
     <img width="1000" src="https://github.com/IgnacioFuhrmann/IgnacioFuhrmann/blob/main/github.v2.jpg" alt="logo" />
   </a>
 </p>
-
+<br />
 
 
 **IgnacioFuhrmann/IgnacioFuhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<br />
 
 ```dart
 // tools_I_use organized
@@ -26,7 +27,6 @@ class About extends Me {
 
 <br />
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning Application programming interfaces (APIs)
