@@ -33,7 +33,6 @@ class About extends Me {
 - 👯 I’m looking to collaborate in any interesting data analytic project.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :office: &nbsp;Check out my **[Portfolio]**
-- 📫 Contact me by **[Email]**
 
 <br />
 
@@ -48,7 +47,6 @@ class About extends Me {
 <!-- prettier-ignore-end -->
 
 <!-- links -->
-[Email]: mailto:isfuhrmann@uc.cl
 [Portfolio]: https://ignaciofuhrmann.github.io/PortfolioWeb.github.io/
 [linkedin]: https://www.linkedin.com/in/ignacio-fuhrmann/
 
